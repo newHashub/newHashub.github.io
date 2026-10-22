@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://newhashub.github.io/tonerecipe-support/sitemap.xml
+Sitemap: https://newhashub.github.io/glassmoment-privacy/sitemap.xml
